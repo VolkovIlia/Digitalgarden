@@ -1,0 +1,662 @@
+{
+  "vaultName": "База знаний",
+  "lastExport": 1728410862503,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Digitalgarden/Исследования/Исследования на базе ресурсного центра.md",
+    "Digitalgarden/Люди/@Волков Илья Николаевич.md",
+    "Digitalgarden/Люди/@Милаш Наталия Анатольевна.md",
+    "Digitalgarden/Люди/@Новикова Екатерина Сергеевна.md",
+    "Digitalgarden/Люди/@Субчева Елена Николаевна.md",
+    "Digitalgarden/Методики/Исследование наночастиц методом просвечивающей электронной микроскопии (ПЭМ).md",
+    "Digitalgarden/Методики/Определение относительного содержания полных (F) и пустых (E) капсидов AAV методом просвечивающей электронной микроскопии.md",
+    "Digitalgarden/Методики/Определение чистоты фармацевтических веществ методом дифференциальной сканирующей калориметрии.md",
+    "Digitalgarden/О центре/Информация о центре.md",
+    "Digitalgarden/О центре/Положение Ресурсного центра Биоматериалов.md",
+    "Digitalgarden/Оборудование/Атомно-силовой микроскоп, JPK Nano Wizard Ultra Speed 2, Brucker/Атомно_силовой_микроскоп_JPK_Nano_Wizard_Ultra_Speed_2_Brucker.docx",
+    "Digitalgarden/Оборудование/Атомно-силовой микроскоп, JPK Nano Wizard Ultra Speed 2, Brucker/Атомно_силовой_микроскоп_JPK_Nano_Wizard_Ultra_Speed_2_Brucker.jpg",
+    "Digitalgarden/Оборудование/Бидистилятор стеклянный, Puridest PD, Lauda/Бидистиллятор стеклянный, Puridest PD 2 DG, Lauda.docx",
+    "Digitalgarden/Оборудование/Ванна ультразвкувая, Спафир ТТЦ/Ванна ультразвуковая, Сапфир ТТЦ.docx",
+    "Digitalgarden/Оборудование/Весы аналитические, Explorer EX125D, Ohaus/Весы аналитические, Explorer EX125D, Ohaus.docx",
+    "Digitalgarden/Оборудование/Весы прецизионные, Explorer EX623, Ohaus/Весы прецизионные, Explorer EX623, Ohaus.docx",
+    "Digitalgarden/Оборудование/Видеокамера высокоскоростная, Phantom/Видеокамера высокоскоростная, MIRO C320, Phantom.docx",
+    "Digitalgarden/Оборудование/Высокоскоростная миницетрифуга, MicroSpin 12/Высокоскоростная миницетрифуга, MicroSpin 12, Biosan, Латвия.docx",
+    "Digitalgarden/Оборудование/Высокоскоростной дифференциальный сканирующий калориметр Flash DSC2 METTLER TOLEDO/Высокоскоростной дифференциальный сканирующий калориметр, Flash DSC2, METTLER TOLEDO, США.docx",
+    "Digitalgarden/Оборудование/Гидравлический пресс горячего прессования, HLP-25H, Hantech/Гидравлический пресс горячего прессования, HLP-25H, Hantech.docx",
+    "Digitalgarden/Оборудование/Гомогенизатор ультразвуковой, Sonicator Q2000, Qsonica/Гомогенизатор ультразвуковой, Sonicator Q2000, Qsonica.docx",
+    "Digitalgarden/Оборудование/Гомогенизатор, Ultra-TURRAX T25 digital, IKA/Гомогенизатор, Ultra-TURRAX T25 digital, IKA.docx",
+    "Digitalgarden/Оборудование/Динамический механический анализатор RSA-G2 Ta Instruments/Динамический механический анализатор RSA-G2 Ta Instruments.docx",
+    "Digitalgarden/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/~$фрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs.docx",
+    "Digitalgarden/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/~WRL1922.tmp",
+    "Digitalgarden/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs v2_АГГ.docx",
+    "Digitalgarden/Оборудование/Дифференциальный сканирующий калориметр DSC 3 METTLER TOLEDO/Дифференциальный сканирующий калориметр DSC 3 METTLER TOLEDO.docx",
+    "Digitalgarden/Оборудование/Испаритель ротационный, Hei Vap Core HL-G3B, Heidolph/Испаритель ротационный, Hei Vap Core HL-G3B, Heidolph.docx",
+    "Digitalgarden/Оборудование/Криоультрамикротом EM U7, Leica Microsystems/Криоультрамикротом EM U7, Leica Microsystems, Германия.jpg",
+    "Digitalgarden/Оборудование/Криоультрамикротом EM U7, Leica Microsystems/Криоультрамикротом EM U7, Leica Microsystems, Германия.docx",
+    "Digitalgarden/Оборудование/Мешалка верхнеприводная, Hei-TORQUE 100 Value, Heidolph/Мешалка верхнеприводная, Hei-TORQUE 100 Value, Heidolph.docx",
+    "Digitalgarden/Оборудование/Мешалка магнитная с нагревом, IKA/Мешалка магнитная с нагревом,MR Hei-Standard, IKA.docx",
+    "Digitalgarden/Оборудование/Микроскоп поляризационный AxioScope 5, Carl Zeiss/Микроскоп поляризационный AxioScope 5, Carl Zeiss.docx",
+    "Digitalgarden/Оборудование/Настольная центрифуга, Spin-150i NPP/Настольная центрифуга, Spin-150i NPP.docx",
+    "Digitalgarden/Оборудование/Программируемый ротор для пробирок, Multi Rs-60/Программируемый ротор для пробирок, Multi Rs-60.docx",
+    "Digitalgarden/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/~$освечивающий электронный микроскоп JEM2100 JEOL.docx",
+    "Digitalgarden/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/Просвечивающий_электронный_микроскоп_JEM2100Plus_JEOL.docx",
+    "Digitalgarden/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/JEM 2100, JEOL.jpg",
+    "Digitalgarden/Оборудование/Сетереомикроскоп SteREO Discovery V20, Carl Zeiss/Сетереомикроскоп SteREO Discovery V20, Carl Zeiss.docx",
+    "Digitalgarden/Оборудование/Сканирующий электронный микроскоп Crossbeam Carl Zeiss/Сканирующий_электронный_микроскоп_Crossbeam_Carl_Zeiss.jpg",
+    "Digitalgarden/Оборудование/Сканирующий электронный микроскоп Crossbeam Carl Zeiss/Сканирующий_электронный_микроскоп_Crossbeam_Carl_Zeiss.docx",
+    "Digitalgarden/Оборудование/Спектрофотометр капельный, NanoDrop Onec, Thermo FS/Спектрофотометр капельный, NanoDrop Onec, Thermo FS.docx",
+    "Digitalgarden/Оборудование/Сушилка лиофильная Alpha 3-4 LSCbasic/Сушилка лиофильная Alpha 3-4 LSCbasic.docx",
+    "Digitalgarden/Оборудование/Термопластомат, MegaTech H7-18-1/Термопластомат, MegaTech H7-18-1.docx",
+    "Digitalgarden/Оборудование/Термошейкер с охлаждением, TS-100C/Термошейкер с охлаждением, TS-100C.docx",
+    "Digitalgarden/Оборудование/Установка плазменной очистки, Zepto 2/Установка плазменной очистки, Zepto 2, Германия.docx",
+    "Digitalgarden/Оборудование/Шкаф сушильный вакуумный, VD 23, Binder/Шкаф сушильный вакуумный, VD 23, Binder.docx",
+    "Digitalgarden/Оборудование/Экструдер Xplore MC 15 HT Xplore Instruments BV/Микрокомпаундер реологический экструзионный, MC 15 HT, Xplore Instruments BV.docx",
+    "Digitalgarden/Оборудование/Электроспининг NF-500 MECC/Электроспининг NF-500 MECC.docx",
+    "Digitalgarden/Оборудование/pH-метр, FiveEasy Plus F20-Stnd, Mettler Toledo/pH-метр, FiveEasy Plus F20-Stnd, Mettler Toledo.docx",
+    "Digitalgarden/Организационные документы/Безопасность/Инструкции по охране труда/Правила работы с прекурсорами.md",
+    "Digitalgarden/Организационные документы/Безопасность/Инструкции по охране труда/Правила утилизации отходов.md",
+    "Digitalgarden/Организационные документы/Безопасность/Инструкции по охране труда/Правила хранения химических реактивов.md",
+    "Digitalgarden/Организационные документы/Безопасность/Инструкции по охране труда/Регламент получения допуск в Ресурсный Центр Биоматериалов.md",
+    "Digitalgarden/Организационные документы/Коммерческая деятельность/Регламент по формированию стоимости услуг центра.md",
+    "Digitalgarden/INDEX.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "Digitalgarden/Исследования/Исследования на базе ресурсного центра.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 143,
+      "exportedPath": "digitalgarden/исследования/исследования-на-базе-ресурсного-центра.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Люди/@Волков Илья Николаевич.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 143,
+      "exportedPath": "digitalgarden/люди/@волков-илья-николаевич.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Люди/@Милаш Наталия Анатольевна.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 143,
+      "exportedPath": "digitalgarden/люди/@милаш-наталия-анатольевна.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Люди/@Новикова Екатерина Сергеевна.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 143,
+      "exportedPath": "digitalgarden/люди/@новикова-екатерина-сергеевна.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Люди/@Субчева Елена Николаевна.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 144,
+      "exportedPath": "digitalgarden/люди/@субчева-елена-николаевна.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Методики/Исследование наночастиц методом просвечивающей электронной микроскопии (ПЭМ).md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 0,
+      "exportedPath": "digitalgarden/методики/исследование-наночастиц-методом-просвечивающей-электронной-микроскопии-(пэм).html",
+      "dependencies": []
+    },
+    "Digitalgarden/Методики/Определение относительного содержания полных (F) и пустых (E) капсидов AAV методом просвечивающей электронной микроскопии.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 0,
+      "exportedPath": "digitalgarden/методики/определение-относительного-содержания-полных-(f)-и-пустых-(e)-капсидов-aav-методом-просвечивающей-электронной-микроскопии.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Методики/Определение чистоты фармацевтических веществ методом дифференциальной сканирующей калориметрии.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 0,
+      "exportedPath": "digitalgarden/методики/определение-чистоты-фармацевтических-веществ-методом-дифференциальной-сканирующей-калориметрии.html",
+      "dependencies": []
+    },
+    "Digitalgarden/О центре/Информация о центре.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 1,
+      "exportedPath": "digitalgarden/о-центре/информация-о-центре.html",
+      "dependencies": []
+    },
+    "Digitalgarden/О центре/Положение Ресурсного центра Биоматериалов.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 0,
+      "exportedPath": "digitalgarden/о-центре/положение-ресурсного-центра-биоматериалов.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Атомно-силовой микроскоп, JPK Nano Wizard Ultra Speed 2, Brucker/Атомно_силовой_микроскоп_JPK_Nano_Wizard_Ultra_Speed_2_Brucker.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 2552999,
+      "exportedPath": "digitalgarden/оборудование/атомно-силовой-микроскоп,-jpk-nano-wizard-ultra-speed-2,-brucker/атомно_силовой_микроскоп_jpk_nano_wizard_ultra_speed_2_brucker.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Атомно-силовой микроскоп, JPK Nano Wizard Ultra Speed 2, Brucker/Атомно_силовой_микроскоп_JPK_Nano_Wizard_Ultra_Speed_2_Brucker.jpg": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 135122,
+      "exportedPath": "digitalgarden/оборудование/атомно-силовой-микроскоп,-jpk-nano-wizard-ultra-speed-2,-brucker/атомно_силовой_микроскоп_jpk_nano_wizard_ultra_speed_2_brucker.jpg",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Бидистилятор стеклянный, Puridest PD, Lauda/Бидистиллятор стеклянный, Puridest PD 2 DG, Lauda.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 66253,
+      "exportedPath": "digitalgarden/оборудование/бидистилятор-стеклянный,-puridest-pd,-lauda/бидистиллятор-стеклянный,-puridest-pd-2-dg,-lauda.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Ванна ультразвкувая, Спафир ТТЦ/Ванна ультразвуковая, Сапфир ТТЦ.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 103610,
+      "exportedPath": "digitalgarden/оборудование/ванна-ультразвкувая,-спафир-ттц/ванна-ультразвуковая,-сапфир-ттц.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Весы аналитические, Explorer EX125D, Ohaus/Весы аналитические, Explorer EX125D, Ohaus.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 120480,
+      "exportedPath": "digitalgarden/оборудование/весы-аналитические,-explorer-ex125d,-ohaus/весы-аналитические,-explorer-ex125d,-ohaus.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Весы прецизионные, Explorer EX623, Ohaus/Весы прецизионные, Explorer EX623, Ohaus.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 68910,
+      "exportedPath": "digitalgarden/оборудование/весы-прецизионные,-explorer-ex623,-ohaus/весы-прецизионные,-explorer-ex623,-ohaus.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Видеокамера высокоскоростная, Phantom/Видеокамера высокоскоростная, MIRO C320, Phantom.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 331385,
+      "exportedPath": "digitalgarden/оборудование/видеокамера-высокоскоростная,-phantom/видеокамера-высокоскоростная,-miro-c320,-phantom.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Высокоскоростная миницетрифуга, MicroSpin 12/Высокоскоростная миницетрифуга, MicroSpin 12, Biosan, Латвия.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 222468,
+      "exportedPath": "digitalgarden/оборудование/высокоскоростная-миницетрифуга,-microspin-12/высокоскоростная-миницетрифуга,-microspin-12,-biosan,-латвия.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Высокоскоростной дифференциальный сканирующий калориметр Flash DSC2 METTLER TOLEDO/Высокоскоростной дифференциальный сканирующий калориметр, Flash DSC2, METTLER TOLEDO, США.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 100993,
+      "exportedPath": "digitalgarden/оборудование/высокоскоростной-дифференциальный-сканирующий-калориметр-flash-dsc2-mettler-toledo/высокоскоростной-дифференциальный-сканирующий-калориметр,-flash-dsc2,-mettler-toledo,-сша.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Гидравлический пресс горячего прессования, HLP-25H, Hantech/Гидравлический пресс горячего прессования, HLP-25H, Hantech.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 145186,
+      "exportedPath": "digitalgarden/оборудование/гидравлический-пресс-горячего-прессования,-hlp-25h,-hantech/гидравлический-пресс-горячего-прессования,-hlp-25h,-hantech.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Гомогенизатор ультразвуковой, Sonicator Q2000, Qsonica/Гомогенизатор ультразвуковой, Sonicator Q2000, Qsonica.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 166148,
+      "exportedPath": "digitalgarden/оборудование/гомогенизатор-ультразвуковой,-sonicator-q2000,-qsonica/гомогенизатор-ультразвуковой,-sonicator-q2000,-qsonica.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Гомогенизатор, Ultra-TURRAX T25 digital, IKA/Гомогенизатор, Ultra-TURRAX T25 digital, IKA.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 58685,
+      "exportedPath": "digitalgarden/оборудование/гомогенизатор,-ultra-turrax-t25-digital,-ika/гомогенизатор,-ultra-turrax-t25-digital,-ika.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Динамический механический анализатор RSA-G2 Ta Instruments/Динамический механический анализатор RSA-G2 Ta Instruments.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 114870,
+      "exportedPath": "digitalgarden/оборудование/динамический-механический-анализатор-rsa-g2-ta-instruments/динамический-механический-анализатор-rsa-g2-ta-instruments.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/~$фрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 162,
+      "exportedPath": "digitalgarden/оборудование/дифрактометр-x-ray-ti-1629-q-02-ok-xeuss-3-beamline-xenocs/~$фрактометр-x-ray-ti-1629-q-02-ok-xeuss-3-beamline-xenocs.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/~WRL1922.tmp": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 233709,
+      "exportedPath": "digitalgarden/оборудование/дифрактометр-x-ray-ti-1629-q-02-ok-xeuss-3-beamline-xenocs/~wrl1922.tmp",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs v2_АГГ.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 301167,
+      "exportedPath": "digitalgarden/оборудование/дифрактометр-x-ray-ti-1629-q-02-ok-xeuss-3-beamline-xenocs/дифрактометр-x-ray-ti-1629-q-02-ok-xeuss-3-beamline-xenocs-v2_агг.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Дифференциальный сканирующий калориметр DSC 3 METTLER TOLEDO/Дифференциальный сканирующий калориметр DSC 3 METTLER TOLEDO.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 408794,
+      "exportedPath": "digitalgarden/оборудование/дифференциальный-сканирующий-калориметр-dsc-3-mettler-toledo/дифференциальный-сканирующий-калориметр-dsc-3-mettler-toledo.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Испаритель ротационный, Hei Vap Core HL-G3B, Heidolph/Испаритель ротационный, Hei Vap Core HL-G3B, Heidolph.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 108852,
+      "exportedPath": "digitalgarden/оборудование/испаритель-ротационный,-hei-vap-core-hl-g3b,-heidolph/испаритель-ротационный,-hei-vap-core-hl-g3b,-heidolph.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Криоультрамикротом EM U7, Leica Microsystems/Криоультрамикротом EM U7, Leica Microsystems, Германия.jpg": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 6714175,
+      "exportedPath": "digitalgarden/оборудование/криоультрамикротом-em-u7,-leica-microsystems/криоультрамикротом-em-u7,-leica-microsystems,-германия.jpg",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Криоультрамикротом EM U7, Leica Microsystems/Криоультрамикротом EM U7, Leica Microsystems, Германия.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 259367,
+      "exportedPath": "digitalgarden/оборудование/криоультрамикротом-em-u7,-leica-microsystems/криоультрамикротом-em-u7,-leica-microsystems,-германия.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Мешалка верхнеприводная, Hei-TORQUE 100 Value, Heidolph/Мешалка верхнеприводная, Hei-TORQUE 100 Value, Heidolph.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 92906,
+      "exportedPath": "digitalgarden/оборудование/мешалка-верхнеприводная,-hei-torque-100-value,-heidolph/мешалка-верхнеприводная,-hei-torque-100-value,-heidolph.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Мешалка магнитная с нагревом, IKA/Мешалка магнитная с нагревом,MR Hei-Standard, IKA.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 64087,
+      "exportedPath": "digitalgarden/оборудование/мешалка-магнитная-с-нагревом,-ika/мешалка-магнитная-с-нагревом,mr-hei-standard,-ika.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Микроскоп поляризационный AxioScope 5, Carl Zeiss/Микроскоп поляризационный AxioScope 5, Carl Zeiss.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 74200,
+      "exportedPath": "digitalgarden/оборудование/микроскоп-поляризационный-axioscope-5,-carl-zeiss/микроскоп-поляризационный-axioscope-5,-carl-zeiss.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Настольная центрифуга, Spin-150i NPP/Настольная центрифуга, Spin-150i NPP.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 84396,
+      "exportedPath": "digitalgarden/оборудование/настольная-центрифуга,-spin-150i-npp/настольная-центрифуга,-spin-150i-npp.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Программируемый ротор для пробирок, Multi Rs-60/Программируемый ротор для пробирок, Multi Rs-60.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 207873,
+      "exportedPath": "digitalgarden/оборудование/программируемый-ротор-для-пробирок,-multi-rs-60/программируемый-ротор-для-пробирок,-multi-rs-60.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/~$освечивающий электронный микроскоп JEM2100 JEOL.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 162,
+      "exportedPath": "digitalgarden/оборудование/просвечивающий-электронный-микроскоп-jem2100-jeol/~$освечивающий-электронный-микроскоп-jem2100-jeol.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/Просвечивающий_электронный_микроскоп_JEM2100Plus_JEOL.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 5938540,
+      "exportedPath": "digitalgarden/оборудование/просвечивающий-электронный-микроскоп-jem2100-jeol/просвечивающий_электронный_микроскоп_jem2100plus_jeol.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/JEM 2100, JEOL.jpg": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 7498700,
+      "exportedPath": "digitalgarden/оборудование/просвечивающий-электронный-микроскоп-jem2100-jeol/jem-2100,-jeol.jpg",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Сетереомикроскоп SteREO Discovery V20, Carl Zeiss/Сетереомикроскоп SteREO Discovery V20, Carl Zeiss.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 72086,
+      "exportedPath": "digitalgarden/оборудование/сетереомикроскоп-stereo-discovery-v20,-carl-zeiss/сетереомикроскоп-stereo-discovery-v20,-carl-zeiss.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Сканирующий электронный микроскоп Crossbeam Carl Zeiss/Сканирующий_электронный_микроскоп_Crossbeam_Carl_Zeiss.jpg": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 8996605,
+      "exportedPath": "digitalgarden/оборудование/сканирующий-электронный-микроскоп-crossbeam-carl-zeiss/сканирующий_электронный_микроскоп_crossbeam_carl_zeiss.jpg",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Сканирующий электронный микроскоп Crossbeam Carl Zeiss/Сканирующий_электронный_микроскоп_Crossbeam_Carl_Zeiss.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 8212658,
+      "exportedPath": "digitalgarden/оборудование/сканирующий-электронный-микроскоп-crossbeam-carl-zeiss/сканирующий_электронный_микроскоп_crossbeam_carl_zeiss.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Спектрофотометр капельный, NanoDrop Onec, Thermo FS/Спектрофотометр капельный, NanoDrop Onec, Thermo FS.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 68809,
+      "exportedPath": "digitalgarden/оборудование/спектрофотометр-капельный,-nanodrop-onec,-thermo-fs/спектрофотометр-капельный,-nanodrop-onec,-thermo-fs.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Сушилка лиофильная Alpha 3-4 LSCbasic/Сушилка лиофильная Alpha 3-4 LSCbasic.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 196246,
+      "exportedPath": "digitalgarden/оборудование/сушилка-лиофильная-alpha-3-4-lscbasic/сушилка-лиофильная-alpha-3-4-lscbasic.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Термопластомат, MegaTech H7-18-1/Термопластомат, MegaTech H7-18-1.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 108215,
+      "exportedPath": "digitalgarden/оборудование/термопластомат,-megatech-h7-18-1/термопластомат,-megatech-h7-18-1.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Термошейкер с охлаждением, TS-100C/Термошейкер с охлаждением, TS-100C.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 198222,
+      "exportedPath": "digitalgarden/оборудование/термошейкер-с-охлаждением,-ts-100c/термошейкер-с-охлаждением,-ts-100c.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Установка плазменной очистки, Zepto 2/Установка плазменной очистки, Zepto 2, Германия.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 98075,
+      "exportedPath": "digitalgarden/оборудование/установка-плазменной-очистки,-zepto-2/установка-плазменной-очистки,-zepto-2,-германия.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Шкаф сушильный вакуумный, VD 23, Binder/Шкаф сушильный вакуумный, VD 23, Binder.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 72233,
+      "exportedPath": "digitalgarden/оборудование/шкаф-сушильный-вакуумный,-vd-23,-binder/шкаф-сушильный-вакуумный,-vd-23,-binder.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Экструдер Xplore MC 15 HT Xplore Instruments BV/Микрокомпаундер реологический экструзионный, MC 15 HT, Xplore Instruments BV.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 218801,
+      "exportedPath": "digitalgarden/оборудование/экструдер-xplore-mc-15-ht-xplore-instruments-bv/микрокомпаундер-реологический-экструзионный,-mc-15-ht,-xplore-instruments-bv.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/Электроспининг NF-500 MECC/Электроспининг NF-500 MECC.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 81277,
+      "exportedPath": "digitalgarden/оборудование/электроспининг-nf-500-mecc/электроспининг-nf-500-mecc.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Оборудование/pH-метр, FiveEasy Plus F20-Stnd, Mettler Toledo/pH-метр, FiveEasy Plus F20-Stnd, Mettler Toledo.docx": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 77066,
+      "exportedPath": "digitalgarden/оборудование/ph-метр,-fiveeasy-plus-f20-stnd,-mettler-toledo/ph-метр,-fiveeasy-plus-f20-stnd,-mettler-toledo.docx",
+      "dependencies": []
+    },
+    "Digitalgarden/Организационные документы/Безопасность/Инструкции по охране труда/Правила работы с прекурсорами.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 0,
+      "exportedPath": "digitalgarden/организационные-документы/безопасность/инструкции-по-охране-труда/правила-работы-с-прекурсорами.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Организационные документы/Безопасность/Инструкции по охране труда/Правила утилизации отходов.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 0,
+      "exportedPath": "digitalgarden/организационные-документы/безопасность/инструкции-по-охране-труда/правила-утилизации-отходов.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Организационные документы/Безопасность/Инструкции по охране труда/Правила хранения химических реактивов.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 0,
+      "exportedPath": "digitalgarden/организационные-документы/безопасность/инструкции-по-охране-труда/правила-хранения-химических-реактивов.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Организационные документы/Безопасность/Инструкции по охране труда/Регламент получения допуск в Ресурсный Центр Биоматериалов.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 0,
+      "exportedPath": "digitalgarden/организационные-документы/безопасность/инструкции-по-охране-труда/регламент-получения-допуск-в-ресурсный-центр-биоматериалов.html",
+      "dependencies": []
+    },
+    "Digitalgarden/Организационные документы/Коммерческая деятельность/Регламент по формированию стоимости услуг центра.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 0,
+      "exportedPath": "digitalgarden/организационные-документы/коммерческая-деятельность/регламент-по-формированию-стоимости-услуг-центра.html",
+      "dependencies": []
+    },
+    "Digitalgarden/INDEX.md": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 1,
+      "exportedPath": "digitalgarden/index.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 56101,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 2505,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 28797,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 763,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 5670,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1728410862503,
+      "sourceSize": 7668,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
