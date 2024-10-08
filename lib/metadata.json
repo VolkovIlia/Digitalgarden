@@ -1,6 +1,6 @@
 {
   "vaultName": "База знаний",
-  "lastExport": 1728411104988,
+  "lastExport": 1728411232273,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -62,7 +62,6 @@
     "docs/Организационные документы/Безопасность/Инструкции по охране труда/Регламент получения допуск в Ресурсный Центр Биоматериалов.md",
     "docs/Организационные документы/Коммерческая деятельность/Регламент по формированию стоимости услуг центра.md",
     "docs/INDEX.md",
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -77,26 +76,9 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -111,359 +93,343 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
   ],
   "fileInfo": {
     "docs/Исследования/Исследования на базе ресурсного центра.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 143,
-      "exportedPath": "docs/исследования/исследования-на-базе-ресурсного-центра.html",
+      "exportedPath": "docs/Исследования/Исследования на базе ресурсного центра.html",
       "dependencies": []
     },
     "docs/Люди/@Волков Илья Николаевич.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 143,
-      "exportedPath": "docs/люди/@волков-илья-николаевич.html",
+      "exportedPath": "docs/Люди/@Волков Илья Николаевич.html",
       "dependencies": []
     },
     "docs/Люди/@Милаш Наталия Анатольевна.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 143,
-      "exportedPath": "docs/люди/@милаш-наталия-анатольевна.html",
+      "exportedPath": "docs/Люди/@Милаш Наталия Анатольевна.html",
       "dependencies": []
     },
     "docs/Люди/@Новикова Екатерина Сергеевна.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 143,
-      "exportedPath": "docs/люди/@новикова-екатерина-сергеевна.html",
+      "exportedPath": "docs/Люди/@Новикова Екатерина Сергеевна.html",
       "dependencies": []
     },
     "docs/Люди/@Субчева Елена Николаевна.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 144,
-      "exportedPath": "docs/люди/@субчева-елена-николаевна.html",
+      "exportedPath": "docs/Люди/@Субчева Елена Николаевна.html",
       "dependencies": []
     },
     "docs/Методики/Исследование наночастиц методом просвечивающей электронной микроскопии (ПЭМ).md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 0,
-      "exportedPath": "docs/методики/исследование-наночастиц-методом-просвечивающей-электронной-микроскопии-(пэм).html",
+      "exportedPath": "docs/Методики/Исследование наночастиц методом просвечивающей электронной микроскопии (ПЭМ).html",
       "dependencies": []
     },
     "docs/Методики/Определение относительного содержания полных (F) и пустых (E) капсидов AAV методом просвечивающей электронной микроскопии.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 0,
-      "exportedPath": "docs/методики/определение-относительного-содержания-полных-(f)-и-пустых-(e)-капсидов-aav-методом-просвечивающей-электронной-микроскопии.html",
+      "exportedPath": "docs/Методики/Определение относительного содержания полных (F) и пустых (E) капсидов AAV методом просвечивающей электронной микроскопии.html",
       "dependencies": []
     },
     "docs/Методики/Определение чистоты фармацевтических веществ методом дифференциальной сканирующей калориметрии.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 0,
-      "exportedPath": "docs/методики/определение-чистоты-фармацевтических-веществ-методом-дифференциальной-сканирующей-калориметрии.html",
+      "exportedPath": "docs/Методики/Определение чистоты фармацевтических веществ методом дифференциальной сканирующей калориметрии.html",
       "dependencies": []
     },
     "docs/О центре/Информация о центре.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 1,
-      "exportedPath": "docs/о-центре/информация-о-центре.html",
+      "exportedPath": "docs/О центре/Информация о центре.html",
       "dependencies": []
     },
     "docs/О центре/Положение Ресурсного центра Биоматериалов.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 0,
-      "exportedPath": "docs/о-центре/положение-ресурсного-центра-биоматериалов.html",
+      "exportedPath": "docs/О центре/Положение Ресурсного центра Биоматериалов.html",
       "dependencies": []
     },
     "docs/Оборудование/Атомно-силовой микроскоп, JPK Nano Wizard Ultra Speed 2, Brucker/Атомно_силовой_микроскоп_JPK_Nano_Wizard_Ultra_Speed_2_Brucker.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 2552999,
-      "exportedPath": "docs/оборудование/атомно-силовой-микроскоп,-jpk-nano-wizard-ultra-speed-2,-brucker/атомно_силовой_микроскоп_jpk_nano_wizard_ultra_speed_2_brucker.docx",
+      "exportedPath": "docs/Оборудование/Атомно-силовой микроскоп, JPK Nano Wizard Ultra Speed 2, Brucker/Атомно_силовой_микроскоп_JPK_Nano_Wizard_Ultra_Speed_2_Brucker.docx",
       "dependencies": []
     },
     "docs/Оборудование/Атомно-силовой микроскоп, JPK Nano Wizard Ultra Speed 2, Brucker/Атомно_силовой_микроскоп_JPK_Nano_Wizard_Ultra_Speed_2_Brucker.jpg": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 135122,
-      "exportedPath": "docs/оборудование/атомно-силовой-микроскоп,-jpk-nano-wizard-ultra-speed-2,-brucker/атомно_силовой_микроскоп_jpk_nano_wizard_ultra_speed_2_brucker.jpg",
+      "exportedPath": "docs/Оборудование/Атомно-силовой микроскоп, JPK Nano Wizard Ultra Speed 2, Brucker/Атомно_силовой_микроскоп_JPK_Nano_Wizard_Ultra_Speed_2_Brucker.jpg",
       "dependencies": []
     },
     "docs/Оборудование/Бидистилятор стеклянный, Puridest PD, Lauda/Бидистиллятор стеклянный, Puridest PD 2 DG, Lauda.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 66253,
-      "exportedPath": "docs/оборудование/бидистилятор-стеклянный,-puridest-pd,-lauda/бидистиллятор-стеклянный,-puridest-pd-2-dg,-lauda.docx",
+      "exportedPath": "docs/Оборудование/Бидистилятор стеклянный, Puridest PD, Lauda/Бидистиллятор стеклянный, Puridest PD 2 DG, Lauda.docx",
       "dependencies": []
     },
     "docs/Оборудование/Ванна ультразвкувая, Спафир ТТЦ/Ванна ультразвуковая, Сапфир ТТЦ.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 103610,
-      "exportedPath": "docs/оборудование/ванна-ультразвкувая,-спафир-ттц/ванна-ультразвуковая,-сапфир-ттц.docx",
+      "exportedPath": "docs/Оборудование/Ванна ультразвкувая, Спафир ТТЦ/Ванна ультразвуковая, Сапфир ТТЦ.docx",
       "dependencies": []
     },
     "docs/Оборудование/Весы аналитические, Explorer EX125D, Ohaus/Весы аналитические, Explorer EX125D, Ohaus.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 120480,
-      "exportedPath": "docs/оборудование/весы-аналитические,-explorer-ex125d,-ohaus/весы-аналитические,-explorer-ex125d,-ohaus.docx",
+      "exportedPath": "docs/Оборудование/Весы аналитические, Explorer EX125D, Ohaus/Весы аналитические, Explorer EX125D, Ohaus.docx",
       "dependencies": []
     },
     "docs/Оборудование/Весы прецизионные, Explorer EX623, Ohaus/Весы прецизионные, Explorer EX623, Ohaus.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 68910,
-      "exportedPath": "docs/оборудование/весы-прецизионные,-explorer-ex623,-ohaus/весы-прецизионные,-explorer-ex623,-ohaus.docx",
+      "exportedPath": "docs/Оборудование/Весы прецизионные, Explorer EX623, Ohaus/Весы прецизионные, Explorer EX623, Ohaus.docx",
       "dependencies": []
     },
     "docs/Оборудование/Видеокамера высокоскоростная, Phantom/Видеокамера высокоскоростная, MIRO C320, Phantom.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 331385,
-      "exportedPath": "docs/оборудование/видеокамера-высокоскоростная,-phantom/видеокамера-высокоскоростная,-miro-c320,-phantom.docx",
+      "exportedPath": "docs/Оборудование/Видеокамера высокоскоростная, Phantom/Видеокамера высокоскоростная, MIRO C320, Phantom.docx",
       "dependencies": []
     },
     "docs/Оборудование/Высокоскоростная миницетрифуга, MicroSpin 12/Высокоскоростная миницетрифуга, MicroSpin 12, Biosan, Латвия.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 222468,
-      "exportedPath": "docs/оборудование/высокоскоростная-миницетрифуга,-microspin-12/высокоскоростная-миницетрифуга,-microspin-12,-biosan,-латвия.docx",
+      "exportedPath": "docs/Оборудование/Высокоскоростная миницетрифуга, MicroSpin 12/Высокоскоростная миницетрифуга, MicroSpin 12, Biosan, Латвия.docx",
       "dependencies": []
     },
     "docs/Оборудование/Высокоскоростной дифференциальный сканирующий калориметр Flash DSC2 METTLER TOLEDO/Высокоскоростной дифференциальный сканирующий калориметр, Flash DSC2, METTLER TOLEDO, США.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 100993,
-      "exportedPath": "docs/оборудование/высокоскоростной-дифференциальный-сканирующий-калориметр-flash-dsc2-mettler-toledo/высокоскоростной-дифференциальный-сканирующий-калориметр,-flash-dsc2,-mettler-toledo,-сша.docx",
+      "exportedPath": "docs/Оборудование/Высокоскоростной дифференциальный сканирующий калориметр Flash DSC2 METTLER TOLEDO/Высокоскоростной дифференциальный сканирующий калориметр, Flash DSC2, METTLER TOLEDO, США.docx",
       "dependencies": []
     },
     "docs/Оборудование/Гидравлический пресс горячего прессования, HLP-25H, Hantech/Гидравлический пресс горячего прессования, HLP-25H, Hantech.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 145186,
-      "exportedPath": "docs/оборудование/гидравлический-пресс-горячего-прессования,-hlp-25h,-hantech/гидравлический-пресс-горячего-прессования,-hlp-25h,-hantech.docx",
+      "exportedPath": "docs/Оборудование/Гидравлический пресс горячего прессования, HLP-25H, Hantech/Гидравлический пресс горячего прессования, HLP-25H, Hantech.docx",
       "dependencies": []
     },
     "docs/Оборудование/Гомогенизатор ультразвуковой, Sonicator Q2000, Qsonica/Гомогенизатор ультразвуковой, Sonicator Q2000, Qsonica.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 166148,
-      "exportedPath": "docs/оборудование/гомогенизатор-ультразвуковой,-sonicator-q2000,-qsonica/гомогенизатор-ультразвуковой,-sonicator-q2000,-qsonica.docx",
+      "exportedPath": "docs/Оборудование/Гомогенизатор ультразвуковой, Sonicator Q2000, Qsonica/Гомогенизатор ультразвуковой, Sonicator Q2000, Qsonica.docx",
       "dependencies": []
     },
     "docs/Оборудование/Гомогенизатор, Ultra-TURRAX T25 digital, IKA/Гомогенизатор, Ultra-TURRAX T25 digital, IKA.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 58685,
-      "exportedPath": "docs/оборудование/гомогенизатор,-ultra-turrax-t25-digital,-ika/гомогенизатор,-ultra-turrax-t25-digital,-ika.docx",
+      "exportedPath": "docs/Оборудование/Гомогенизатор, Ultra-TURRAX T25 digital, IKA/Гомогенизатор, Ultra-TURRAX T25 digital, IKA.docx",
       "dependencies": []
     },
     "docs/Оборудование/Динамический механический анализатор RSA-G2 Ta Instruments/Динамический механический анализатор RSA-G2 Ta Instruments.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 114870,
-      "exportedPath": "docs/оборудование/динамический-механический-анализатор-rsa-g2-ta-instruments/динамический-механический-анализатор-rsa-g2-ta-instruments.docx",
+      "exportedPath": "docs/Оборудование/Динамический механический анализатор RSA-G2 Ta Instruments/Динамический механический анализатор RSA-G2 Ta Instruments.docx",
       "dependencies": []
     },
     "docs/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/~$фрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 162,
-      "exportedPath": "docs/оборудование/дифрактометр-x-ray-ti-1629-q-02-ok-xeuss-3-beamline-xenocs/~$фрактометр-x-ray-ti-1629-q-02-ok-xeuss-3-beamline-xenocs.docx",
+      "exportedPath": "docs/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/~$фрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs.docx",
       "dependencies": []
     },
     "docs/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/~WRL1922.tmp": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 233709,
-      "exportedPath": "docs/оборудование/дифрактометр-x-ray-ti-1629-q-02-ok-xeuss-3-beamline-xenocs/~wrl1922.tmp",
+      "exportedPath": "docs/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/~WRL1922.tmp",
       "dependencies": []
     },
     "docs/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs v2_АГГ.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 301167,
-      "exportedPath": "docs/оборудование/дифрактометр-x-ray-ti-1629-q-02-ok-xeuss-3-beamline-xenocs/дифрактометр-x-ray-ti-1629-q-02-ok-xeuss-3-beamline-xenocs-v2_агг.docx",
+      "exportedPath": "docs/Оборудование/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs/Дифрактометр X-ray TI-1629-Q-02-OK-Xeuss 3 beamline Xenocs v2_АГГ.docx",
       "dependencies": []
     },
     "docs/Оборудование/Дифференциальный сканирующий калориметр DSC 3 METTLER TOLEDO/Дифференциальный сканирующий калориметр DSC 3 METTLER TOLEDO.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 408794,
-      "exportedPath": "docs/оборудование/дифференциальный-сканирующий-калориметр-dsc-3-mettler-toledo/дифференциальный-сканирующий-калориметр-dsc-3-mettler-toledo.docx",
+      "exportedPath": "docs/Оборудование/Дифференциальный сканирующий калориметр DSC 3 METTLER TOLEDO/Дифференциальный сканирующий калориметр DSC 3 METTLER TOLEDO.docx",
       "dependencies": []
     },
     "docs/Оборудование/Испаритель ротационный, Hei Vap Core HL-G3B, Heidolph/Испаритель ротационный, Hei Vap Core HL-G3B, Heidolph.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 108852,
-      "exportedPath": "docs/оборудование/испаритель-ротационный,-hei-vap-core-hl-g3b,-heidolph/испаритель-ротационный,-hei-vap-core-hl-g3b,-heidolph.docx",
+      "exportedPath": "docs/Оборудование/Испаритель ротационный, Hei Vap Core HL-G3B, Heidolph/Испаритель ротационный, Hei Vap Core HL-G3B, Heidolph.docx",
       "dependencies": []
     },
     "docs/Оборудование/Криоультрамикротом EM U7, Leica Microsystems/Криоультрамикротом EM U7, Leica Microsystems, Германия.jpg": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 6714175,
-      "exportedPath": "docs/оборудование/криоультрамикротом-em-u7,-leica-microsystems/криоультрамикротом-em-u7,-leica-microsystems,-германия.jpg",
+      "exportedPath": "docs/Оборудование/Криоультрамикротом EM U7, Leica Microsystems/Криоультрамикротом EM U7, Leica Microsystems, Германия.jpg",
       "dependencies": []
     },
     "docs/Оборудование/Криоультрамикротом EM U7, Leica Microsystems/Криоультрамикротом EM U7, Leica Microsystems, Германия.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 259367,
-      "exportedPath": "docs/оборудование/криоультрамикротом-em-u7,-leica-microsystems/криоультрамикротом-em-u7,-leica-microsystems,-германия.docx",
+      "exportedPath": "docs/Оборудование/Криоультрамикротом EM U7, Leica Microsystems/Криоультрамикротом EM U7, Leica Microsystems, Германия.docx",
       "dependencies": []
     },
     "docs/Оборудование/Мешалка верхнеприводная, Hei-TORQUE 100 Value, Heidolph/Мешалка верхнеприводная, Hei-TORQUE 100 Value, Heidolph.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 92906,
-      "exportedPath": "docs/оборудование/мешалка-верхнеприводная,-hei-torque-100-value,-heidolph/мешалка-верхнеприводная,-hei-torque-100-value,-heidolph.docx",
+      "exportedPath": "docs/Оборудование/Мешалка верхнеприводная, Hei-TORQUE 100 Value, Heidolph/Мешалка верхнеприводная, Hei-TORQUE 100 Value, Heidolph.docx",
       "dependencies": []
     },
     "docs/Оборудование/Мешалка магнитная с нагревом, IKA/Мешалка магнитная с нагревом,MR Hei-Standard, IKA.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 64087,
-      "exportedPath": "docs/оборудование/мешалка-магнитная-с-нагревом,-ika/мешалка-магнитная-с-нагревом,mr-hei-standard,-ika.docx",
+      "exportedPath": "docs/Оборудование/Мешалка магнитная с нагревом, IKA/Мешалка магнитная с нагревом,MR Hei-Standard, IKA.docx",
       "dependencies": []
     },
     "docs/Оборудование/Микроскоп поляризационный AxioScope 5, Carl Zeiss/Микроскоп поляризационный AxioScope 5, Carl Zeiss.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 74200,
-      "exportedPath": "docs/оборудование/микроскоп-поляризационный-axioscope-5,-carl-zeiss/микроскоп-поляризационный-axioscope-5,-carl-zeiss.docx",
+      "exportedPath": "docs/Оборудование/Микроскоп поляризационный AxioScope 5, Carl Zeiss/Микроскоп поляризационный AxioScope 5, Carl Zeiss.docx",
       "dependencies": []
     },
     "docs/Оборудование/Настольная центрифуга, Spin-150i NPP/Настольная центрифуга, Spin-150i NPP.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 84396,
-      "exportedPath": "docs/оборудование/настольная-центрифуга,-spin-150i-npp/настольная-центрифуга,-spin-150i-npp.docx",
+      "exportedPath": "docs/Оборудование/Настольная центрифуга, Spin-150i NPP/Настольная центрифуга, Spin-150i NPP.docx",
       "dependencies": []
     },
     "docs/Оборудование/Программируемый ротор для пробирок, Multi Rs-60/Программируемый ротор для пробирок, Multi Rs-60.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 207873,
-      "exportedPath": "docs/оборудование/программируемый-ротор-для-пробирок,-multi-rs-60/программируемый-ротор-для-пробирок,-multi-rs-60.docx",
+      "exportedPath": "docs/Оборудование/Программируемый ротор для пробирок, Multi Rs-60/Программируемый ротор для пробирок, Multi Rs-60.docx",
       "dependencies": []
     },
     "docs/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/~$освечивающий электронный микроскоп JEM2100 JEOL.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 162,
-      "exportedPath": "docs/оборудование/просвечивающий-электронный-микроскоп-jem2100-jeol/~$освечивающий-электронный-микроскоп-jem2100-jeol.docx",
+      "exportedPath": "docs/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/~$освечивающий электронный микроскоп JEM2100 JEOL.docx",
       "dependencies": []
     },
     "docs/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/Просвечивающий_электронный_микроскоп_JEM2100Plus_JEOL.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 5938540,
-      "exportedPath": "docs/оборудование/просвечивающий-электронный-микроскоп-jem2100-jeol/просвечивающий_электронный_микроскоп_jem2100plus_jeol.docx",
+      "exportedPath": "docs/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/Просвечивающий_электронный_микроскоп_JEM2100Plus_JEOL.docx",
       "dependencies": []
     },
     "docs/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/JEM 2100, JEOL.jpg": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 7498700,
-      "exportedPath": "docs/оборудование/просвечивающий-электронный-микроскоп-jem2100-jeol/jem-2100,-jeol.jpg",
+      "exportedPath": "docs/Оборудование/Просвечивающий электронный микроскоп JEM2100 JEOL/JEM 2100, JEOL.jpg",
       "dependencies": []
     },
     "docs/Оборудование/Сетереомикроскоп SteREO Discovery V20, Carl Zeiss/Сетереомикроскоп SteREO Discovery V20, Carl Zeiss.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 72086,
-      "exportedPath": "docs/оборудование/сетереомикроскоп-stereo-discovery-v20,-carl-zeiss/сетереомикроскоп-stereo-discovery-v20,-carl-zeiss.docx",
+      "exportedPath": "docs/Оборудование/Сетереомикроскоп SteREO Discovery V20, Carl Zeiss/Сетереомикроскоп SteREO Discovery V20, Carl Zeiss.docx",
       "dependencies": []
     },
     "docs/Оборудование/Сканирующий электронный микроскоп Crossbeam Carl Zeiss/Сканирующий_электронный_микроскоп_Crossbeam_Carl_Zeiss.jpg": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 8996605,
-      "exportedPath": "docs/оборудование/сканирующий-электронный-микроскоп-crossbeam-carl-zeiss/сканирующий_электронный_микроскоп_crossbeam_carl_zeiss.jpg",
+      "exportedPath": "docs/Оборудование/Сканирующий электронный микроскоп Crossbeam Carl Zeiss/Сканирующий_электронный_микроскоп_Crossbeam_Carl_Zeiss.jpg",
       "dependencies": []
     },
     "docs/Оборудование/Сканирующий электронный микроскоп Crossbeam Carl Zeiss/Сканирующий_электронный_микроскоп_Crossbeam_Carl_Zeiss.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 8212658,
-      "exportedPath": "docs/оборудование/сканирующий-электронный-микроскоп-crossbeam-carl-zeiss/сканирующий_электронный_микроскоп_crossbeam_carl_zeiss.docx",
+      "exportedPath": "docs/Оборудование/Сканирующий электронный микроскоп Crossbeam Carl Zeiss/Сканирующий_электронный_микроскоп_Crossbeam_Carl_Zeiss.docx",
       "dependencies": []
     },
     "docs/Оборудование/Спектрофотометр капельный, NanoDrop Onec, Thermo FS/Спектрофотометр капельный, NanoDrop Onec, Thermo FS.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 68809,
-      "exportedPath": "docs/оборудование/спектрофотометр-капельный,-nanodrop-onec,-thermo-fs/спектрофотометр-капельный,-nanodrop-onec,-thermo-fs.docx",
+      "exportedPath": "docs/Оборудование/Спектрофотометр капельный, NanoDrop Onec, Thermo FS/Спектрофотометр капельный, NanoDrop Onec, Thermo FS.docx",
       "dependencies": []
     },
     "docs/Оборудование/Сушилка лиофильная Alpha 3-4 LSCbasic/Сушилка лиофильная Alpha 3-4 LSCbasic.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 196246,
-      "exportedPath": "docs/оборудование/сушилка-лиофильная-alpha-3-4-lscbasic/сушилка-лиофильная-alpha-3-4-lscbasic.docx",
+      "exportedPath": "docs/Оборудование/Сушилка лиофильная Alpha 3-4 LSCbasic/Сушилка лиофильная Alpha 3-4 LSCbasic.docx",
       "dependencies": []
     },
     "docs/Оборудование/Термопластомат, MegaTech H7-18-1/Термопластомат, MegaTech H7-18-1.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 108215,
-      "exportedPath": "docs/оборудование/термопластомат,-megatech-h7-18-1/термопластомат,-megatech-h7-18-1.docx",
+      "exportedPath": "docs/Оборудование/Термопластомат, MegaTech H7-18-1/Термопластомат, MegaTech H7-18-1.docx",
       "dependencies": []
     },
     "docs/Оборудование/Термошейкер с охлаждением, TS-100C/Термошейкер с охлаждением, TS-100C.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 198222,
-      "exportedPath": "docs/оборудование/термошейкер-с-охлаждением,-ts-100c/термошейкер-с-охлаждением,-ts-100c.docx",
+      "exportedPath": "docs/Оборудование/Термошейкер с охлаждением, TS-100C/Термошейкер с охлаждением, TS-100C.docx",
       "dependencies": []
     },
     "docs/Оборудование/Установка плазменной очистки, Zepto 2/Установка плазменной очистки, Zepto 2, Германия.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 98075,
-      "exportedPath": "docs/оборудование/установка-плазменной-очистки,-zepto-2/установка-плазменной-очистки,-zepto-2,-германия.docx",
+      "exportedPath": "docs/Оборудование/Установка плазменной очистки, Zepto 2/Установка плазменной очистки, Zepto 2, Германия.docx",
       "dependencies": []
     },
     "docs/Оборудование/Шкаф сушильный вакуумный, VD 23, Binder/Шкаф сушильный вакуумный, VD 23, Binder.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 72233,
-      "exportedPath": "docs/оборудование/шкаф-сушильный-вакуумный,-vd-23,-binder/шкаф-сушильный-вакуумный,-vd-23,-binder.docx",
+      "exportedPath": "docs/Оборудование/Шкаф сушильный вакуумный, VD 23, Binder/Шкаф сушильный вакуумный, VD 23, Binder.docx",
       "dependencies": []
     },
     "docs/Оборудование/Экструдер Xplore MC 15 HT Xplore Instruments BV/Микрокомпаундер реологический экструзионный, MC 15 HT, Xplore Instruments BV.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 218801,
-      "exportedPath": "docs/оборудование/экструдер-xplore-mc-15-ht-xplore-instruments-bv/микрокомпаундер-реологический-экструзионный,-mc-15-ht,-xplore-instruments-bv.docx",
+      "exportedPath": "docs/Оборудование/Экструдер Xplore MC 15 HT Xplore Instruments BV/Микрокомпаундер реологический экструзионный, MC 15 HT, Xplore Instruments BV.docx",
       "dependencies": []
     },
     "docs/Оборудование/Электроспининг NF-500 MECC/Электроспининг NF-500 MECC.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 81277,
-      "exportedPath": "docs/оборудование/электроспининг-nf-500-mecc/электроспининг-nf-500-mecc.docx",
+      "exportedPath": "docs/Оборудование/Электроспининг NF-500 MECC/Электроспининг NF-500 MECC.docx",
       "dependencies": []
     },
     "docs/Оборудование/pH-метр, FiveEasy Plus F20-Stnd, Mettler Toledo/pH-метр, FiveEasy Plus F20-Stnd, Mettler Toledo.docx": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 77066,
-      "exportedPath": "docs/оборудование/ph-метр,-fiveeasy-plus-f20-stnd,-mettler-toledo/ph-метр,-fiveeasy-plus-f20-stnd,-mettler-toledo.docx",
+      "exportedPath": "docs/Оборудование/pH-метр, FiveEasy Plus F20-Stnd, Mettler Toledo/pH-метр, FiveEasy Plus F20-Stnd, Mettler Toledo.docx",
       "dependencies": []
     },
     "docs/Организационные документы/Безопасность/Инструкции по охране труда/Правила работы с прекурсорами.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 0,
-      "exportedPath": "docs/организационные-документы/безопасность/инструкции-по-охране-труда/правила-работы-с-прекурсорами.html",
+      "exportedPath": "docs/Организационные документы/Безопасность/Инструкции по охране труда/Правила работы с прекурсорами.html",
       "dependencies": []
     },
     "docs/Организационные документы/Безопасность/Инструкции по охране труда/Правила утилизации отходов.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 0,
-      "exportedPath": "docs/организационные-документы/безопасность/инструкции-по-охране-труда/правила-утилизации-отходов.html",
+      "exportedPath": "docs/Организационные документы/Безопасность/Инструкции по охране труда/Правила утилизации отходов.html",
       "dependencies": []
     },
     "docs/Организационные документы/Безопасность/Инструкции по охране труда/Правила хранения химических реактивов.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 0,
-      "exportedPath": "docs/организационные-документы/безопасность/инструкции-по-охране-труда/правила-хранения-химических-реактивов.html",
+      "exportedPath": "docs/Организационные документы/Безопасность/Инструкции по охране труда/Правила хранения химических реактивов.html",
       "dependencies": []
     },
     "docs/Организационные документы/Безопасность/Инструкции по охране труда/Регламент получения допуск в Ресурсный Центр Биоматериалов.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 0,
-      "exportedPath": "docs/организационные-документы/безопасность/инструкции-по-охране-труда/регламент-получения-допуск-в-ресурсный-центр-биоматериалов.html",
+      "exportedPath": "docs/Организационные документы/Безопасность/Инструкции по охране труда/Регламент получения допуск в Ресурсный Центр Биоматериалов.html",
       "dependencies": []
     },
     "docs/Организационные документы/Коммерческая деятельность/Регламент по формированию стоимости услуг центра.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 0,
-      "exportedPath": "docs/организационные-документы/коммерческая-деятельность/регламент-по-формированию-стоимости-услуг-центра.html",
+      "exportedPath": "docs/Организационные документы/Коммерческая деятельность/Регламент по формированию стоимости услуг центра.html",
       "dependencies": []
     },
     "docs/INDEX.md": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 1,
-      "exportedPath": "docs/index.html",
+      "exportedPath": "docs/INDEX.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
@@ -473,91 +439,91 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728411104988,
+      "modifiedTime": 1728411232273,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
